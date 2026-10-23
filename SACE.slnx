@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SACE_Core/SACE_Core.csproj" />
+  <Project Path="SACE_Engine/SACE_Engine.csproj" Id="7ca8baa9-df90-4cb3-9c2c-1cf1eea4348d" />
+  <Project Path="SACE_MaskGenerator/SACE_MaskGenerator.csproj" Id="be29d9f7-7dda-4565-ac79-d6380876714d" />
+  <Project Path="SACE_Tests/SACE_Tests.csproj" />
+</Solution>
